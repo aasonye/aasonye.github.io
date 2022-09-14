@@ -58,7 +58,8 @@ footer {
     font-size: 27px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;
-    border: dotted lightyellow 2.5px;
+    border: dotted 2.5px;
+    border-color:lightyellow;
     border-radius: 5%;
     margin-left: 45%;
     transition-duration: 1s;
